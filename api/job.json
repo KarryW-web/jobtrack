@@ -1,0 +1,43 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "id":"1",
+      "cname":"北京柯蓝科技有限公司",
+      "leader":"刘海海",
+      "teacher":"张三",
+      "activityDate":"2019-05-16",
+      "address":"科技楼10层101"
+    },{
+      "id":"2",
+      "cname":"北京思特奇股份有限公司",
+      "leader":"刘海",
+      "teacher":"李四",
+      "activityDate":"2019-05-14",
+      "address":"科技楼10层101"
+    },
+    {
+      "id":"3",
+      "cname":"大连华宇科技有限公司",
+      "leader":"柳丝",
+      "teacher":"王五",
+      "activityDate":"2019-05-15",
+      "address":"科技楼10层101"
+    },{
+      "id":"4",
+      "cname":"成都银海软件科技有限公司",
+      "leader":"张小花",
+      "teacher":"张三",
+      "activityDate":"2019-05-17",
+      "address":"科技楼10层101"
+    },{
+      "id":"5",
+      "cname":"山东国子科技有限公司",
+      "leader":"赵小刀",
+      "teacher":"李四",
+      "activityDate":"2019-05-18",
+      "address":"科技楼10层101"
+    }
+  ] }

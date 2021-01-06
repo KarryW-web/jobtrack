@@ -1,0 +1,73 @@
+
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "majorName": "应用数学",
+      "cno": "10022",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "counsellor": "李四"
+    },{
+      "majorName": "应用数学",
+      "cno": "10023",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张三",
+      "counsellor": "李四"
+    },{
+      "majorName": "大数据",
+      "cno": "10024",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 41,
+      "classTeacher": "王五",
+      "counsellor": "路六"
+    },{
+      "majorName": "大数据",
+      "cno": "10025",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 41,
+      "classTeacher": "王五",
+      "counsellor": "路六"
+    },{
+      "majorName": "软件开发",
+      "cno": "10026",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张鹏",
+      "counsellor": "王伦"
+    },{
+      "majorName": "金融",
+      "cno": "10027",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 39,
+      "classTeacher": "高杰",
+      "counsellor": "文康"
+    },{
+      "majorName": "网络工程",
+      "cno": "10028",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 42,
+      "classTeacher": "张雅",
+      "counsellor": "朱亚"
+    },{
+      "majorName": "网络工程",
+      "cno": "10029",
+      "period": "2017",
+      "joinDate": "2017-09-01",
+      "num": 40,
+      "classTeacher": "张雅",
+      "counsellor": "朱亚"
+    }
+  ]
+}
